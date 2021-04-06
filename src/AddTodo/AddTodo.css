@@ -1,0 +1,11 @@
+form {
+  padding: 30px;
+}
+.addTodoContainer{
+
+  background-color: lightgreen;
+}
+
+button {
+  margin: 10px;
+}

@@ -1,0 +1,13 @@
+div {
+
+}
+.todoitem {
+  margin: 10px;
+  cursor: pointer;
+
+}
+.todoitemcompleted {
+  text-decoration: line-through;
+
+
+}
